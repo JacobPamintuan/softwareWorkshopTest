@@ -16,6 +16,11 @@ int main(){
 
     std::cout << "Editing from J";
 
+    int fuck;
+    std::cin >> fuck;
+
+    std::cout << fuck;
+
     // comment
 
     // edit r
