@@ -1,25 +1,27 @@
 #include <iostream>
 
+using namespace std;
+
 int main(){
-    std::cout <<"This is Great";
-    std::cout << "haha";
-    std::cout << "The Great workshop~~~~~~~~~~~~~~~";
+    cout <<"This is Great";
+    cout << "The Great workshop~~~~~~~~~~~~~~~";
+    cout << "haha";
 
-    std::cout << "Adding from different computer (J)";
-    std::cout << "Adding from github website";
+    cout << "Adding from different computer (J)";
+    cout << "Adding from github website";
 
-    std::cout << "editing from J again";
-    std::cout << "editing form R";
-    std::cout << "Editing agian from R";
+    cout << "editing from J again";
+    cout << "editing form R";
+    cout << "Editing agian from R";
     
     // asdf
 
-    std::cout << "Editing from J";
+    cout << "Editing from J";
 
     int yeet;
-    std::cin >> yeet;
+    cin >> yeet;
 
-    std::cout << yeet;
+    cout << yeet;
 
     // comment
 
