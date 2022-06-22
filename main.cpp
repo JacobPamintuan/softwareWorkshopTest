@@ -16,10 +16,10 @@ int main(){
 
     std::cout << "Editing from J";
 
-    int fuck;
-    std::cin >> fuck;
+    int yeet;
+    std::cin >> yeet;
 
-    std::cout << fuck;
+    std::cout << yeet;
 
     // comment
 
