@@ -9,4 +9,6 @@ int main(){
     std::cout << "Adding from github website";
 
     std::cout << "editing from J again";
+    std::cout << "editing form R";
+    std::cout << "Editing agian from R";
 }
